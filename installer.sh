@@ -1,3 +1,4 @@
+sudo apt install python python3
 sudo apt install python3-pip
 sudo apt install python-pip
 pip3 install wheel
