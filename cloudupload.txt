@@ -1,0 +1,9 @@
+login:
+mega-login Maheshcod123@gmail.com maheshcod123
+
+To upload files:
+mega-put video.avi
+
+To download files:
+mega-get video.avi
+
